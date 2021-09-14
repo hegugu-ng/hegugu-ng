@@ -6,4 +6,4 @@
 Python C VUE 会一点前端 ~~能够正常的使用计算机，和键盘~~
 
 ## 简介
-@NGWORKS成员，扯淡的VUP
+@NGWORKS 成员，扯淡的VUP
