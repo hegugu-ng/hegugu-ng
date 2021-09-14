@@ -1,9 +1,9 @@
-# 👋 About Me
-I’m 禾咕咕,In English you can call me 'He-gu-gu',I am a member of [@NGWORKS](https://github.com/NGWORKS), a Chinese Vtuber.
-> ~~I know it sounds strange~~ because it's Chinese pronunciation.
-## s*** ~~special?~~ name
-As said at the beginning of the article, my name is a Chinese name, and I have been distressed to choose an appropriate English name, because it involves some **popular words in China**, which makes it difficult for me to accurately explain these in English.
-<!---
-hegugu-ng/hegugu-ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 除了游戏，我们来干点有意思的事情吧！
+忙了很久，终于有时间更新一下个人介绍。
+> ~~当然对前期版本感兴趣的可以自行查阅历史~~
+
+## 本人主要技术栈
+Python C VUE 会一点前端 ~~能够正常的使用计算机，和键盘~~
+
+## 简介
+@NGWORKS成员，扯淡的VUP
