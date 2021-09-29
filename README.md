@@ -3,7 +3,7 @@
 > ~~当然对前期版本感兴趣的可以自行查阅历史~~
 
 ## 本人主要技术栈
-Python C VUE 会一点前端 ~~能够正常的使用计算机，和键盘~~
+Python C VUE Golang ~~能够正常的使用计算机，和键盘~~
 
 ## 简介
 [@NGWORKS](https://github.com/NGWORKS) 团队成员，扯淡的VUP。
